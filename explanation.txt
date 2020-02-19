@@ -1,0 +1,10 @@
+* First I made a copy of the existing array.
+* I'm sorting the array.
+* Declaring variable "sum" where I gonna add values until "sum" hits the threshold's value.
+* Declaring an empty array.
+* I'm doing the constraints. (other method was to make a function where to add all kind of errors and call them when I need to in sugarHigh() ).
+* Going through the sorted array with .length.
+* Adding to sum every element until sum < threshold.
+* In the "if statement" I declared a variable where I put the indexes of these elements from the original array.
+* Then I pushed those indexes to the empty array.
+* At last I'm sorting and printing the empty array which is not empty anymore :)
